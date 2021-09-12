@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Khadija Naz
 ## A Cyber Security Expert from Pakistan
-# -🔭 I’m currently working on Synthesis Calculator
+ -🔭 I’m currently working on Synthesis Calculator
 
 <!--
 **KhadijaNaz/KhadijaNaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
