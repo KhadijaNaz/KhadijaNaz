@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khadija Naz</h1>
-<h3 align="center">A passionate Cyber Security Expert from Pakistan</h3>
+<h3 align="center">A Passionate Cybersecurity Expert from Pakistan</h3>
 
-- 🌱 I’m currently learning **React, Devops and Bug bounty**
-
-- 🤝 I’m looking for help with **Bug bounty**
+- 🌱 I’m currently learning **React, Devops, Cybersecurity and Bug bounty**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhadijaNaz](https://github.com/KhadijaNaz)
+
+- 🤝 I’m looking for help with **Bug bounty**
 
 - 💬 Ask me about **Cybersecurity.**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://pk.linkedin.com/in/khadija-naz-b9207a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pk.linkedin.com/in/khadija-naz-b9207a20a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khadija-naz-b9207a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khadija-naz-b9207a20a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
