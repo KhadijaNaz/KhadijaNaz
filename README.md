@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khadija Naz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="50px">, I'm Khadija Naz</h1>
 <h3 align="center">A Passionate Cybersecurity Expert from Pakistan</h3>
 
 - 🌱 I’m currently learning **React, Devops, Cybersecurity and Bug bounty**
@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **No doubt, I'm little different from you 😄.**
 
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khadija-naz-b9207a20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khadija-naz-b9207a20a" height="30" width="40" /></a>
