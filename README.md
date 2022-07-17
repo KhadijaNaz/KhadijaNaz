@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="50px">, I'm Khadija Naz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="20px">, I'm Khadija Naz</h1>
 <h3 align="center">A Passionate Cybersecurity Expert from Pakistan</h3>
 
 - 🌱 I’m currently learning **React, Devops, Cybersecurity and Bug bounty**.
